@@ -1,4 +1,4 @@
-# GPT-6 AI Sales Coach — full tutorial template
+# GPT-6 AI Sales Coach (full tutorial template)
 
 Build a face-to-face sales practice partner in [Akapulu](https://akapulu.com). Nicole plays a fictional agency owner, challenges your offer, then gives transcript-based feedback. Mara is the avatar used in the video; Nicole is the character she plays.
 
