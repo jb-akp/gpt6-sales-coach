@@ -39,7 +39,7 @@
       ]
     },
     "objection": {
-      "task_instruction": "Raise these objections one at a time, in order: {{runtime.objections}}.\n\nPush back if the answer is weak or generic. If the answer is strong and specific, say so briefly and raise the next one. One or two sentences.\n\nJudge the rep against these close criteria: {{runtime.close_criteria}}. If they meet them, transition to close. If they clearly fall short after at least two objections, transition to no_sale. Only call one tool.",
+      "task_instruction": "Raise these objections one at a time, in order: {{runtime.objections}}.\n\nPush back if the answer is weak or generic. If the answer is strong and specific, say so briefly and raise the next one. One or two sentences.\n\nJudge the rep against these close criteria: {{runtime.close_criteria}}. If they meet them, transition to close. If they clearly fall short after at least two objections, transition to no_sale. Only call one tool. When you transition, don't announce your decision first; the next step says it.",
       "respond_immediately": true,
       "functions": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     "close": {
-      "task_instruction": "Agree to one concrete next step the rep proposes, like a trial or a demo with the dentist. One or two sentences, then transition.",
+      "task_instruction": "Agree to one concrete next step the rep proposes, like a follow-up call or a demo. One or two sentences, then transition. If your last message already agreed, don't say it again; just transition.",
       "respond_immediately": true,
       "functions": [
         {
@@ -71,7 +71,7 @@
       ]
     },
     "no_sale": {
-      "task_instruction": "Politely say you'll pass for now, naming the one concern that wasn't answered. One or two sentences, then transition.",
+      "task_instruction": "Politely say you'll pass for now, naming the one concern that wasn't answered. One or two sentences, then transition. If your last message already declined, don't say it again; just transition.",
       "respond_immediately": true,
       "functions": [
         {
@@ -83,7 +83,7 @@
       ]
     },
     "coach": {
-      "task_instruction": "Step out of character. Say: 'Okay, stepping out of the roleplay. Here's your coaching.' Then, speaking as a friendly, direct sales coach, give exactly four short points out loud:\n1. One thing the rep did well, quoting what they said.\n2. The weakest moment, and what to say instead, in one sentence they could actually use.\n3. Which objection they handled worst.\n4. A score out of 10.\nKeep the whole thing under 90 words. Then say 'Hang up and call back to try again.'",
+      "task_instruction": "Never repeat your last line. Start straight away by stepping out of character. Say: 'Okay, stepping out of the roleplay. Here's your coaching.' Then, speaking as a friendly, direct sales coach, give exactly four short points out loud:\n1. One thing the rep did well, quoting what they said.\n2. The weakest moment, and what to say instead, in one sentence they could actually use.\n3. Which objection they handled worst.\n4. A score out of 10.\nKeep the whole thing under 90 words. Then say 'Hang up and call back to try again.'",
       "respond_immediately": true,
       "end_after_bot_response": true
     }
