@@ -3,11 +3,11 @@
   "prospect_role": "founder and owner",
   "prospect_company": "Northpeak Media, a marketing agency",
   "prospect_company_size": "eight people and about twenty retainer clients",
-  "annual_tool_budget": "about 2,500 dollars for a project like this, but only say it if asked directly",
-  "pain_points": "her account managers lose every Monday pulling numbers from Google Ads, Meta and GA4 into weekly client reports, reports go out late, and two clients complained this quarter",
+  "annual_tool_budget": "2,500 dollars available for the initial project; share if asked. Recurring support needs separate approval from Marcus",
+  "pain_points": "The team together spend twelve staff-hours every week pulling Google Ads, Meta and GA4 numbers into twenty client reports. Reports go out late, and two clients complained this quarter. The twelve hours are across the whole team, not per person. Their estimated internal cost is fifty dollars per staff-hour. Share a figure when asked, not all at once. The amount of time an automation would actually save is unknown until a pilot is measured.",
   "sales_rep_name": "James",
   "sales_rep_company": "his own AI automation studio",
   "product": "a custom AI automation that pulls every client's numbers each week, writes the summary in the agency's voice, and drops a ready-to-send report in Slack for a quick review. A one-time 2,000 dollar build",
   "objections": "first, we already pay for ChatGPT, so why would I pay you; second, we paid a freelancer for automations last year and they broke within a month; third, my business partner Marcus handles the budget, so I can't say yes alone",
-  "close_criteria": "the rep puts a number on the hours lost every Monday, explains specifically why this is more than a ChatGPT subscription, addresses what happens when something breaks (who fixes it, support or handover), and proposes a concrete next step that includes Marcus"
+  "close_criteria": "The rep discovers and accurately uses the twelve staff-hours per week figure; explains the proposed workflow beyond a ChatGPT subscription without guaranteeing unmeasured savings; explains who handles failures and under what support or handover terms; and proposes a specific follow-up involving Marcus. A clear answer earns credit even if phrased differently from an example. A meeting is a next step, not a completed sale."
 }
