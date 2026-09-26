@@ -1,0 +1,13 @@
+{
+  "prospect_name": "Maria",
+  "prospect_role": "office manager",
+  "prospect_company": "Sunrise Family Dental",
+  "prospect_company_size": "two dentists and ten staff",
+  "annual_tool_budget": "300 dollars a month",
+  "pain_points": "calls go to voicemail after 5pm and at lunch, the front desk is overwhelmed, and missed calls mean missed new patients",
+  "sales_rep_name": "James",
+  "sales_rep_company": "Akapulu",
+  "product": "an AI receptionist that answers every call, books appointments and texts confirmations",
+  "objections": "first, it's too expensive for a small office; second, we tried a phone bot two years ago and patients hated it; third, I can't decide this without Dr. Patel",
+  "close_criteria": "the rep ties the cost to the new patients lost from missed calls, explains specifically why this is different from a clunky phone bot, and proposes a concrete next step that includes Dr. Patel"
+}
