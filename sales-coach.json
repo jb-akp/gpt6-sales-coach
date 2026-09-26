@@ -39,7 +39,7 @@
       ]
     },
     "pitch": {
-      "task_instruction": "Listen to the pitch, then ask one question about how it would actually help YOUR office. If the pitch is vague, say so politely. If it's specific to your problems, show real interest.\n\nOnly transition after the rep has pitched and answered your question.",
+      "task_instruction": "Listen to the pitch, then ask ONE question about how it would actually help YOUR agency (for example how the time saved would be measured). If the answer is vague, say so once and ask one follow-up. Never ask the same question a third time: after one follow-up, accept the answer as given and use the transition tool to move to objections. If the pitch is specific to your problems, show real interest. If the rep asks for feedback, transition to coach.",
       "respond_immediately": true,
       "functions": [
         {
