@@ -1,6 +1,6 @@
 # GPT-6 Sales Coach
 
-A sales roleplay on a live AI avatar. You call a prospect (Maria, the office manager at a dental office), pitch her an AI receptionist, and work through her three objections. At the end she drops the roleplay and coaches you: one thing you did well, your weakest moment and what to say instead, the objection you handled worst, and a score out of 10.
+A sales roleplay on a live AI avatar. You call a prospect (Nicole, who owns a marketing agency), pitch her an AI automation build, and work through her three objections. At the end she drops the roleplay and coaches you: one thing you did well, your weakest moment and what to say instead, the objection you handled worst, and a score out of 10.
 
 It runs on [Akapulu](https://akapulu.com). No code needed.
 
@@ -11,7 +11,7 @@ It runs on [Akapulu](https://akapulu.com). No code needed.
 ## Setup (about 10 minutes)
 1. **Pick the model.** GPT-6 Luna works on the free plan. GPT-6 Sol is smarter, but it needs a paid plan and your OpenAI key saved at akapulu.com/settings → **OpenAI API key** (below the plan cards, not in Secrets).
 2. **Create the scenario.** Go to akapulu.com/scenarios → New, flip the top-right toggle to **JSON**, and paste `sales-coach.json`. Open Scenario Menu → Settings, choose GPT-6 Luna or Sol, and click **Save**.
-3. **Make a hosted link.** Go to Scenario Menu → Hosted Link → **+ Add hosted link**. Pick a female avatar and paste the values from `runtime-vars.json` into Runtime variables. Add STT keywords (Sunrise, Patel, Maria), click **Add Link**, then click **Save** in the upper right.
+3. **Make a hosted link.** Go to Scenario Menu → Hosted Link → **+ Add hosted link**. Pick a female avatar and paste the values from `runtime-vars.json` into Runtime variables. Add STT keywords (Northpeak, Nicole, Marcus), click **Add Link**, then click **Save** in the upper right.
 4. **Call her.** Open the link and click Start Call. When you hang up, call back to try again.
 
 Anyone with your hosted link can start a call on your minutes, so keep it private.

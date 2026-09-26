@@ -1,13 +1,13 @@
 {
-  "prospect_name": "Maria",
-  "prospect_role": "office manager",
-  "prospect_company": "Sunrise Family Dental",
-  "prospect_company_size": "two dentists and ten staff",
-  "annual_tool_budget": "300 dollars a month",
-  "pain_points": "calls go to voicemail after 5pm and at lunch, the front desk is overwhelmed, and missed calls mean missed new patients",
+  "prospect_name": "Nicole",
+  "prospect_role": "founder and owner",
+  "prospect_company": "Northpeak Media, a marketing agency",
+  "prospect_company_size": "eight people and about twenty retainer clients",
+  "annual_tool_budget": "about 2,500 dollars for a project like this, but only say it if asked directly",
+  "pain_points": "her account managers lose every Monday pulling numbers from Google Ads, Meta and GA4 into weekly client reports, reports go out late, and two clients complained this quarter",
   "sales_rep_name": "James",
-  "sales_rep_company": "Akapulu",
-  "product": "an AI receptionist that answers every call, books appointments and texts confirmations",
-  "objections": "first, it's too expensive for a small office; second, we tried a phone bot two years ago and patients hated it; third, I can't decide this without Dr. Patel",
-  "close_criteria": "the rep ties the cost to the new patients lost from missed calls, explains specifically why this is different from a clunky phone bot, and proposes a concrete next step that includes Dr. Patel"
+  "sales_rep_company": "his own AI automation studio",
+  "product": "a custom AI automation that pulls every client's numbers each week, writes the summary in the agency's voice, and drops a ready-to-send report in Slack for a quick review. A one-time 2,000 dollar build",
+  "objections": "first, we already pay for ChatGPT, so why would I pay you; second, we paid a freelancer for automations last year and they broke within a month; third, my business partner Marcus handles the budget, so I can't say yes alone",
+  "close_criteria": "the rep puts a number on the hours lost every Monday, explains specifically why this is more than a ChatGPT subscription, addresses what happens when something breaks (who fixes it, support or handover), and proposes a concrete next step that includes Marcus"
 }
